@@ -14,12 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/3DModels/AnimalModels/fox5.fbx
-    - Assets/3DModels/AnimalModels/fox5.fbx.meta
     - Assets/Scenes/Aili.unity
     - 
-    m_Values: 01010101
-  RevisionSummary: Deer fixed
+    m_Values: 0101
+  RevisionSummary: test
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
